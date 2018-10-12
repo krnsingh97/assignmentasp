@@ -3,30 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment1asp", "assignment1asp\assignment1asp.csproj", "{73DAC260-BF8F-4C77-98DB-88902869A2F0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment1asp.Tests", "assignment1asp.Tests\assignment1asp.Tests.csproj", "{F1A949B1-DFC5-4E2A-9E3F-243FADC0A2B4}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0A5B052F-F2FD-4BA3-B3BC-AE9E0E66A85B}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{73DAC260-BF8F-4C77-98DB-88902869A2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73DAC260-BF8F-4C77-98DB-88902869A2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73DAC260-BF8F-4C77-98DB-88902869A2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73DAC260-BF8F-4C77-98DB-88902869A2F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F1A949B1-DFC5-4E2A-9E3F-243FADC0A2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F1A949B1-DFC5-4E2A-9E3F-243FADC0A2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F1A949B1-DFC5-4E2A-9E3F-243FADC0A2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F1A949B1-DFC5-4E2A-9E3F-243FADC0A2B4}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
