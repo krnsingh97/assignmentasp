@@ -8,10 +8,12 @@ namespace assignment1asp.Controllers
 {
     public class HomeController : Controller
     {
+        
         public ActionResult Index()
         {
             return View();
         }
+       
 
         public ActionResult About()
         {
@@ -26,5 +28,14 @@ namespace assignment1asp.Controllers
 
             return View();
         }
+        public ActionResult Gallery()
+        {
+            return View();
+        }
+        public ActionResult cart()
+        {
+            return View();
+        }
+
     }
 }
